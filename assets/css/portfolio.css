@@ -1,0 +1,116 @@
+.images{
+    width: 200px;
+    height: 200px;
+  }
+
+  .banner{
+    width: 201px;
+    height: 50px;
+    text-align: center;
+    background-color: teal;
+    position: absolute;
+}
+  
+
+  .bossbox{
+    position: relative;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 960px;
+    margin: auto;
+    position: relative;
+  }
+
+  .box{
+    width: 200px;
+    height 200px
+    position: absolute;
+    left: 10%;
+  }
+
+  .box1{
+    width: 200px;
+    height 200px
+    position: absolute;
+    left: 10%;
+  }
+  .box2{
+    width: 200px;
+    height 200px
+    position: absolute;
+    left: 10%;
+  }
+  .box3{
+    width: 200px;
+    height 200px
+    position: absolute;
+    left: 10%;
+  }
+  .box4{
+    width: 200px;
+    height 200px
+    position: absolute;
+    left: 10%;
+  }
+
+  #image1{
+    position: relative;
+    border: black 1px solid;
+  }
+  
+  #banner1{
+      position: relative;
+      top: -76px;
+  }
+
+  #image2{
+    position: relative;
+    left: 120%;
+    top: -256px;
+    border: black 1px solid;
+  }
+
+  #banner2{
+    position: relative;
+    left: 120%;
+    top: -334px
+  }
+
+  #image3{
+    position: relative;
+    left: 237%;
+    top: -513px;
+    border: black 1px solid;
+  }
+
+  #banner3{
+    position: relative;
+    left: 237%;
+    top: -590px;
+  }
+
+  #image4{
+    position: relative;
+    left: 0%;
+    top: -538px;
+    border: black 1px solid;
+  }
+
+  #banner4{
+    position: relative;
+    left: 0%;
+    top: -619px;
+  }
+
+  #image5{
+    position: relative;
+    left: 121%;
+    top: -793px;
+    border: black 1px solid;
+  }
+
+  #banner5{
+    position: relative;
+    left: 121%;
+    top: -877px;
+  }
