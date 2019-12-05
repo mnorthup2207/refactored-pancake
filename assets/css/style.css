@@ -14,7 +14,7 @@ input[type=text], select, textarea {
   
   /* Style the submit button with a specific background color etc */
   input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #8ee4af;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -24,13 +24,13 @@ input[type=text], select, textarea {
   
   /* When moving the mouse over the submit button, add a darker green color */
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #05386b;
   }
   
   /* main container around center block */
   .container {
     border-radius: 5px;
-    background-color: #fff;
+    background-color: whitesmoke;
     padding: 20px;
     width: 960px;
     margin: auto;
@@ -44,15 +44,15 @@ input[type=text], select, textarea {
 
   
 body{
-    background-color:#f2f2f2f2 ;
+    background-color:#5cd895 ;
     margin: 0;
 }
 
 footer{
     text-align: center;
-    background-color: #666666;
+    background-color: #05386b;
     padding: 20px;
-    color: #fff;
+    color: #edf5e1;
     
 }
 
@@ -63,7 +63,7 @@ h2{
 /* Style the header with a grey background and some padding */
 .header {
     overflow: hidden;
-    background-color: #fff;
+    background-color: #379683;
     padding: 20px 10px;
   }
   
@@ -88,16 +88,16 @@ h2{
   
   /* Change the background color on mouse-over */
   .header a:hover {
-    background-color: #ddd;
+    background-color: #05386b;
     color: black;
   }
   
-  /* puts blue border around active page */
-  /* Style the active/current link*/
-  /* .header a.active { */
-    /* background-color: dodgerblue; */
-    /* color: white; */
-  /* } */
+  
+  /* Style the active current link */
+  .header a.active {
+    background-color: #8ee4af;
+    color: #edf5e1;
+  }
   
   /* Float the link section to the right */
   .header-right {
